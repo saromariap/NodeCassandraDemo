@@ -3,8 +3,8 @@ This demo will show how to connect Cassandra KeySpace to Node and perform CRUD o
 
 # Installation
 - NodeJS
-- GIT SCM for Windows
-- Apache Cassandra for Windows (from DataStax)
+- GIT SCM for Windows/Linux/Mac
+- Apache Cassandra for Windows/Linux/Mac (from DataStax)
 
 # Setup
 - Connect to Cassandra CQL Shell
